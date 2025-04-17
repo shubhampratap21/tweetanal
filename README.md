@@ -32,3 +32,4 @@ A web-based sentiment analysis application that detects the mood behind your inp
    ```bash
    git clone https://github.com/yourusername/public-sentiment-analyzer.git
    cd public-sentiment-analyzer
+![image](https://github.com/user-attachments/assets/6c81bd17-81bf-489b-8de7-f910ba85eb9d)
